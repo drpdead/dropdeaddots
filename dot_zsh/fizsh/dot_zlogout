@@ -1,0 +1,71 @@
+################################################
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message
+#
+# Print the goodbye message
+#
+function _fizsh-goodbye-message () {
+  echo ''
+  echo 'Goodbye'
+  exit
+}
+
+_fizsh-goodbye-message

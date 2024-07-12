@@ -1,0 +1,12 @@
+remote_theme: doctorfree/jekyll-theme-neoman
+plugins:
+  - jekyll-remote-theme
+
+email: ronaldrecord@gmail.com
+baseurl: ""
+url: "https://readme.lazyman.dev"
+twitter_username: ronrecord
+github_username: doctorfree
+
+show_downloads: false
+# google_analytics:

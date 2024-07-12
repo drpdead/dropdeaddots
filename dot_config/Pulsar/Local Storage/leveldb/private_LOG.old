@@ -1,0 +1,33 @@
+2024/05/30-19:37:38.018 44f4b Reusing MANIFEST /home/redd/.config/Pulsar/Local Storage/leveldb/MANIFEST-000001
+2024/05/30-19:37:38.018 44f4b Recovering log #3
+2024/05/30-19:37:38.020 44f4b Reusing old log /home/redd/.config/Pulsar/Local Storage/leveldb/000003.log 
+2024/05/30-19:44:29.933 44f3b Level-0 table #5: started
+2024/05/30-19:44:29.939 44f3b Level-0 table #5: 119170 bytes OK
+2024/05/30-19:44:29.942 44f3b Delete type=0 #3
+2024/05/30-19:45:00.993 44f3c Level-0 table #7: started
+2024/05/30-19:45:00.997 44f3c Level-0 table #7: 73142 bytes OK
+2024/05/30-19:45:00.999 44f3c Delete type=0 #4
+2024/05/30-19:50:20.394 44f3c Level-0 table #9: started
+2024/05/30-19:50:20.397 44f3c Level-0 table #9: 61701 bytes OK
+2024/05/30-19:50:20.399 44f3c Delete type=0 #6
+2024/05/30-19:52:39.119 44f3c Level-0 table #11: started
+2024/05/30-19:52:39.127 44f3c Level-0 table #11: 69338 bytes OK
+2024/05/30-19:52:39.129 44f3c Delete type=0 #8
+2024/05/30-19:53:39.119 47988 Level-0 table #13: started
+2024/05/30-19:53:39.135 47988 Level-0 table #13: 47645 bytes OK
+2024/05/30-19:53:39.138 47988 Delete type=0 #10
+2024/05/30-19:54:39.118 44f3b Level-0 table #15: started
+2024/05/30-19:54:39.124 44f3b Level-0 table #15: 71655 bytes OK
+2024/05/30-19:54:39.127 44f3b Delete type=0 #12
+2024/05/30-19:54:39.127 44f3b Compacting 4@0 + 1@1 files
+2024/05/30-19:54:39.138 44f3b Generated table #16@0: 157 keys, 317423 bytes
+2024/05/30-19:54:39.138 44f3b Compacted 4@0 + 1@1 files => 317423 bytes
+2024/05/30-19:54:39.141 44f3b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/30-19:54:39.141 44f3b Delete type=2 #15
+2024/05/30-19:54:39.141 44f3b Delete type=2 #11
+2024/05/30-19:54:39.141 44f3b Delete type=2 #7
+2024/05/30-19:54:39.141 44f3b Delete type=2 #9
+2024/05/30-19:54:39.141 44f3b Delete type=2 #13
+2024/05/30-19:56:39.118 49af5 Level-0 table #18: started
+2024/05/30-19:56:39.123 49af5 Level-0 table #18: 110519 bytes OK
+2024/05/30-19:56:39.126 49af5 Delete type=0 #14

@@ -1,0 +1,83 @@
+: 1716835402:0;eval $(starship init zsh)
+: 1716835409:0;starship init zsh
+: 1716835436:0;starship init zsh >> starship
+: 1716835453:0;cat starship
+: 1716835463:0;source starship
+: 1716835586:0;fizsh --help
+: 1716835612:0;fizsh help
+: 1716835620:0;fizsh starship
+: 1716835626:0;fizsh go
+: 1716835633:0;fizsh config
+: 1716835642:0;fizsh -a config
+: 1716835652:0;fizsh .zdirs
+: 1716835664:0;sudo fizsh .zdirs
+: 1716835675:0;ls 1l
+: 1716835678:0;ls -1l
+: 1716835689:0;uu-ls
+: 1716835699:0;lsd -a
+: 1716835701:0;lsd -A
+: 1716835707:0;lsd --help
+: 1716835720:0;ls --helo
+: 1716835723:0;ls --help
+: 1716835737:0;/usr/bin/lsd
+: 1716835747:0;reload
+: 1716835756:0;exec "$SHELL" "$@"
+: 1716835782:0;sudo mv /usr/bin/lsd /usr/bin/ls
+: 1716835799:0;fizsh ls
+: 1716835809:0;fizsh .zcompdump
+: 1716835813:0;alias
+: 1716835835:0;sudo pacman -S zsh-lovers
+: 1716835867:0;sudo pacman -S fzf
+: 1716835877:0;sudo pacman -S zoxide
+: 1716835929:0;sudo pacman -S python-click-completion
+: 1716835967:0;sudo pacman -S zsh-autocompletions
+: 1716835980:0;sudo pacman -S zsh-autosuggestions
+: 1716835990:0;sudo pacman -S zsh-completions
+: 1716836004:0;pacman -Ss zsh
+: 1716836024:0;sudo pacman -S zsh-history-substring-search
+: 1716836040:0;sudo pacman -S zsh-syntax-highlighting
+: 1716836046:0;cd /usr/share
+: 1716836049:0;cd grml
+: 1716836054:0;ls | grep grml
+: 1716836056:0;fd grml
+: 1716836063:0;cd docs
+: 1716836068:0;cd doc
+: 1716836088:0;ls cd ..
+: 1716836097:0;fd grml .
+: 1716836185:0;ls share/zsh
+: 1716836191:0;cd share/zsh
+: 1716836198:0;ls scripts
+: 1716836203:0;ls plugins
+: 1716836209:0;ls functions
+: 1716836219:0;cd /etc
+: 1716836222:0;ls ske;
+: 1716836230:0;ls skel
+: 1716836235:0;ls profile.d
+: 1716836241:0;ls zsh
+: 1716836246:0;ls -a zsh
+: 1716836422:0;cat zsh/zprofile
+: 1716836431:0;ls profile
+: 1716858078:0;cd /
+: 1716858082:0;fd zsh
+: 1716858101:0;sudo pacman -Rns oh-my-zsh
+: 1716858118:0;fd oh-my-zsh .
+: 1716858134:0;sudo pacman -Rns oh-my-zsh-git
+: 1716858145:0;fd oh-my .
+: 1716858158:0;fd -u oh-my .
+: 1716858176:0;paru -Rns oh-my-zsh
+: 1716858181:0;cd home
+: 1716858182:0;cd redd
+: 1716858192:0;cd .config
+: 1716858221:0;mkdir -p nvim-conf.d
+: 1716858240:0;mv nvim-* nvim-conf.g/
+: 1716858255:0;mv nvim-* nvim-conf.d/
+: 1716858263:0;ls nvim-conf.d
+: 1716858284:0;cd ..
+: 1716858308:0;touch .zshrc.local
+: 1716858315:0;ls -A
+: 1716858343:0;mv Downloads/zshrc.txt .zshrc
+: 1716858350:0;nvim .zshrc
+: 1716958452:0;lsd
+: 1716958455:0;ls
+: 1716958634:0;sudo pacman -Syu
+: 1716958646:0;exit

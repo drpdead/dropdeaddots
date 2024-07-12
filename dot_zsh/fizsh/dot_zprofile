@@ -1,0 +1,50 @@
+################################################
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
+#
+function _fizsh-login-message () {
+  echo 'welcome to fizsh, the friendly interactive zshell'
+  print -P 'type %F{green}fizsh%F{reset} for instructions on how to use fizsh'
+}
+
+_fizsh-login-message
