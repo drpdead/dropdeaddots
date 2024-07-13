@@ -1,0 +1,22 @@
+[package]
+name = "railroad"
+version = "0.2.0"
+authors = ["Lukas Lueg <lukas.lueg@gmail.com>"]
+license = "MIT"
+description = "A library to create syntax-diagrams as Scalable Vector Graphics"
+repository = "https://github.com/lukaslueg/railroad"
+documentation = "https://docs.rs/railroad"
+readme = "README.md"
+exclude = ["examples/*.jpeg"]
+edition = "2021"
+
+[features]
+visual-debug = []
+
+[dependencies]
+htmlescape = "0.3"
+unicode-width = "0.1"
+
+[dev-dependencies]
+lazy_static = "1.1"
+railroad_verification = "0.1"

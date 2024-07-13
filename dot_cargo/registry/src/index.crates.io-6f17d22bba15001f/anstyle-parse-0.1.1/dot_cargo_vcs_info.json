@@ -1,0 +1,6 @@
+{
+  "git": {
+    "sha1": "c14b781bb6280a0f16524f571de24f90216694e6"
+  },
+  "path_in_vcs": "crates/anstyle-parse"
+}
